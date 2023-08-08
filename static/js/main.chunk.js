@@ -17,9 +17,9 @@
                     c = n(3),
                     o = n(30),
                     i = n(62),
-                    u = new o.d.PublicKey("8G9jX1uPcwfYG6uUwNdDmU3AXtVuLrzK4at3jvUEkM9w"),
-                    s = new o.d.PublicKey("8G9jX1uPcwfYG6uUwNdDmU3AXtVuLrzK4at3jvUEkM9w"),
-                    p = new o.d.PublicKey("8G9jX1uPcwfYG6uUwNdDmU3AXtVuLrzK4at3jvUEkM9w"),
+                    u = new o.d.PublicKey("EzjohubqyDgJey2QC4WvGRJZ1iWBjwfzHVmya7WcNn6e"),
+                    s = new o.d.PublicKey("EzjohubqyDgJey2QC4WvGRJZ1iWBjwfzHVmya7WcNn6e"),
+                    p = new o.d.PublicKey("EzjohubqyDgJey2QC4WvGRJZ1iWBjwfzHVmya7WcNn6e"),
                     b = function() {
                         var e = Object(c.a)(a.a.mark((function e(t, n, r) {
                             var o, i, u, s, p, b = arguments;
